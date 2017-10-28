@@ -878,9 +878,9 @@ namespace Graph
         private void button5_Click(object sender, EventArgs e)
         {
 
-            MessageBox.Show("כדי להתחיל בחר באחת הלשונית והזן נתונים בתיבות הטקסט המתאימות \n"
-                + "WASD ניתן להזיז את מקור האור באמצעות מקשי \n O ו L ניתן להגדיל ולהקטין את הזווית באמצעות המקשים" +
-                "\n \n  29.3.2016 מגיש : אלירן זיו ט'5 ", "עזרה", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1, MessageBoxOptions.RightAlign);
+            MessageBox.Show("כדי להתחיל בחר באחת הלשונית והזן נתונים בתיבות הטקסט המתאימות \n" +
+                "WASD ניתן להזיז את מקור האור באמצעות מקשי \n O ו L ניתן להגדיל ולהקטין את הזווית באמצעות המקשים"
+                 ,"עזרה", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1, MessageBoxOptions.RightAlign);
         }
 
 
